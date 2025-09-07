@@ -9,9 +9,9 @@ github: "https://github.com/martinaabojensen"
 last_updated: "2025-09-06"
 ---
 
-# {{name}}
+# Martin Aabo Jensen
 
-**{{title}}** · {{location}} · {{email}} · {{phone}} · [LinkedIn]({{linkedin}}) · [GitHub]({{github}})
+**Strategic Technology Leader** · 4010 Breckenridge Ct, Alpharetta, GA 30005 · martinaabojensen@gmail.com · +1 678 602 6963 · [LinkedIn](https://www.linkedin.com/in/martinaabojensen/) · [GitHub](https://github.com/martinaabojensen)
 
 ## Executive Summary
 Strategic technology leader with 25+ years of experience delivering cloud-first transformation and network infrastructure solutions across telecom, enterprise, and public sectors. Proven record in leading high-impact delivery organizations, scaling customer engagements, and aligning complex architecture programs with business outcomes. Certified across AWS, Azure, GCP, and Oracle, with a strong focus on hybrid cloud, 5G, and edge-native systems. Currently leading delivery and design services for HPE following its acquisition of Athonet.
