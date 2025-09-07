@@ -1,14 +1,12 @@
----
 your_name: "Martin Aabo Jensen"
 your_title: "Private 5G / Networking Leader"
 your_city: "Atlanta, GA"
 your_email: "you@example.com"
 your_phone: "(xxx) xxx-xxxx"
-date: "YYYY-MM-DD"
+date: "2025-09-06"
 company: "Company Name"
 role: "Role Title"
 hiring_manager: "Hiring Manager"
----
 
 {{date}}
 
